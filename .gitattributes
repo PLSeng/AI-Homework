@@ -1,2 +1,4 @@
 data/kh_char_test.csv filter=lfs diff=lfs merge=lfs -text
 data/kh_char_train.csv filter=lfs diff=lfs merge=lfs -text
+LeNet[[:space:]]save filter=lfs diff=lfs merge=lfs -text
+U-net[[:space:]]save filter=lfs diff=lfs merge=lfs -text
